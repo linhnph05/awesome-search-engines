@@ -8,29 +8,17 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 
 <p align="center">
   <a href="#general-search-engines">General</a> •
-  <a href="#servers">Servers</a> •
   <a href="#vulnerabilities">Vulnerabilities</a> •
   <a href="#exploits">Exploits</a> •
-  <a href="#attack-surface">Attack surface</a> •
   <a href="#code">Code</a> •
   <a href="#mail-addresses">Mail addresses</a> •
   <a href="#domains">Domains</a> •
   <a href="#urls">URLs</a> •
-  <a href="#dns">DNS</a> •
-  <a href="#certificates">Certificates</a> •
-  <a href="#wifi-networks">WiFi networks</a> •
-  <a href="#device-information">Device Info</a> •
   <a href="#credentials">Credentials</a> •
   <a href="#leaks">Leaks</a> •
-  <a href="#hidden-services">Hidden Services</a> •
   <a href="#social-networks">Social Networks</a> •
-  <a href="#phone-numbers">Phone numbers</a> •
   <a href="#images">Images</a> •
-  <a href="#threat-intelligence">Threat Intelligence</a> •
   <a href="#web-history">Web History</a> •
-  <a href="#surveillance-cameras">Surveillance cameras</a> •
-  <a href="#crypto">Crypto</a> •
-  <a href="#people">People</a>
 </p>
 
 ### General Search Engines
@@ -42,7 +30,6 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [Ask](https://www.ask.com/)
 - [Baidu](https://www.baidu.com/)
 - [SearXNG](https://searx.be/?q=)
-- [EXALead](http://www.exalead.com/search/web/)
 - [DuckDuckGo](https://duckduckgo.com/)
 - [Swisscows](https://swisscows.com/en)
 - [Naver](https://www.naver.com/)
@@ -52,20 +39,6 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [Gibiru](https://gibiru.com/)
 - [Kagi](https://kagi.com/)
 - [Stract](https://stract.com/)
-
-### Servers
-
-- [Shodan](https://shodan.io) - Search Engine for the Internet of Everything
-- [Censys Search](https://search.censys.io/) - Search Engine for every server on the Internet to reduce exposure and improve security
-- [Onyphe.io](https://www.onyphe.io/) - Cyber Defense Search Engine for open-source and cyber threat intelligence data
-- [ZoomEye](https://www.zoomeye.org/) - Global cyberspace mapping
-- [GreyNoise](https://viz.greynoise.io/) - The source for understanding internet noise
-- [Natlas](https://natlas.io/) - Scaling Network Scanning
-- [Netlas.io](https://netlas.io/) - Discover, Research and Monitor any Assets Available Online
-- [FOFA](https://fofa.info/) - Cyberspace mapping
-- [Quake](https://quake.360.net/quake/#/index) - Cyberspace surveying and mapping system
-- [Hunter](https://hunter.how/) - Internet Search Engines For Security Researchers
-- [ODIN](https://getodin.com/) - One of the most powerful search engines for Scanned Internet Assets
 
 ### Vulnerabilities
 
@@ -133,28 +106,6 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [Sploitify](https://sploitify.haxx.it/) - Interactive cheat sheet, containing a curated list of public server-side exploits (mostly)
 - [LOLESXi](https://lolesxi-project.github.io/LOLESXi/) - Comprehensive list of binaries/scripts natively available in VMware ESXi that adversaries have utilised in their operations
 - [LOLAD](https://lolad-project.github.io/) - Comprehensive collection of Active Directory techniques, commands, and functions that can be used natively to support offensive security operations and Red Team exercises
-
-### Attack Surface
-
-- [FullHunt.io](https://fullhunt.io/) - Attack surface database of the entire Internet
-- [BinaryEdge](https://www.binaryedge.io/) - We scan the web and gather data for you
-- [Censys ASM](https://censys.io/) - Attack Surface Management Solutions
-- [RedHunt Labs](https://redhuntlabs.com/) - Discover your Attack Surface, Continuously
-- [SecurityTrails](https://securitytrails.com/) - The Total Internet Inventory
-- [overcast-security.com](https://overcast-security.com/) - We make tracking your external attack surface easy
-- [IPInfo.io](https://ipinfo.io/) - The trusted source for IP address data
-- [IPData.co](https://ipdata.co/) - IP Geolocation and Threat Intelligence API
-- [NetworksDB](https://networksdb.io/) - Information about the public IPv4 and IPv6 addresses, networks and domains owned by companies and organisations across the world
-- [ASNlookup](https://asnlookup.com/) - Quickly lookup updated information about specific Autonomous System Number (ASN), Organization, CIDR, or registered IP addresses (IPv4 and IPv6) among other relevant data
-- [BGPtools](https://bgp.tools/) - Browse the Internet ecosystem
-- [BGPview](https://bgpview.io/) - Debug and investigate information about IP addresses, ASN, IXs, BGP, ISPs, Prefixes and Domain names
-- [BigDataCloud](https://www.bigdatacloud.com/) - The API provides comprehensive location and network data
-- [RADb](https://www.radb.net/query) - The world's largest public routing registry
-- [Deepinfo](https://www.deepinfo.com/) - Empower your security with the most comprehensive Internet data
-- [CloudFlare Radar](https://radar.cloudflare.com/) - Global Internet traffic, attack, and technology trends and insights
-- [IPIP](https://en.ipip.net/) - The only IP Database based on real time BGP/ASN data analytics
-- [Hurricane Electric BGP](https://bgp.he.net/) - The Hurricane Electric BGP Toolkit is free to use. Look up ASN from IP address
-- [Webscout](https://webscout.io/) - From threat intelligence to attack surface discovery, asset management, and brand protection
 
 ### Code
 
@@ -268,65 +219,6 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [TinyScan](https://www.tiny-scan.com/) - Effortlessly Dive into URL Details
 - [urldna.io](https://urldna.io/) - Unleash website insights! urldna.io analyzes data, monitors brands and exposes security risks
 
-### DNS
-
-- [DNSDumpster](https://dnsdumpster.com/) - DNS recon & research, find & lookup dns records
-- [Chaos](https://chaos.projectdiscovery.io/#/) - Enhance research and analyse changes around DNS for better insights
-- [RapidDNS](https://rapiddns.io/) - DNS query tool which make querying subdomains or sites of a same ip easy
-- [DNSdb](https://docs.farsightsecurity.com/#dnsdb) - Passive DNS historical database
-- [Omnisint](https://omnisint.io/reverse-dns-lookup) - Reverse DNS lookup
-- [HackerTarget](https://hackertarget.com/ip-tools/) - Collect information about IP Addresses, Networks, Web Pages and DNS records
-- [passivedns.mnemonic.no](https://passivedns.mnemonic.no/) - Web interface for querying passive DNS data collected in our malware lab
-- [ptrarchive.com](http://ptrarchive.com/) - Over 230 billion reverse DNS entries from 2008 to the present
-- [dnshistory.org](http://dnshistory.org/) - Domain Name System Historical Record Archive
-- [DNSTwister](https://dnstwister.report/) - The anti-phishing domain name search engine and DNS monitoring service
-- [DNSviz](https://dnsviz.net/) - Tool for visualizing the status of a DNS zone
-- [C99.nl](https://api.c99.nl/) - Over 57 quality API's and growing
-- [wannabe1337.xyz](https://wannabe1337.xyz/) - Online Tools
-- [DNSlytics](https://dnslytics.com/) - Find out everything about a domain name, IP address or provider
-- [dnsrepo.noc.org](https://dnsrepo.noc.org/) - DNS Database Repository Search
-- [DNSSpy](https://dnsspy.io/) - Monitor, validate and verify your DNS configurations
-- [ZETAlytics](https://zetalytics.com/) - We offer unrivalled geographic diversity and exclusive global network visibility in searchable datasets for use by cyber security analysts
-- [AskDNS](https://askdns.com/) - Lookup Connected Domain Names and IP Addresses
-- [360 PassiveDNS.CN](https://passivedns.cn/) - Biggest public available db in China designed for security and research purpose
-- [MXtoolbox](https://mxtoolbox.com/SuperTool.aspx) - All of your MX record, DNS, blacklist and SMTP diagnostics in one integrated tool
-- [NSLookup.io](https://www.nslookup.io/) - Find all DNS records for a domain name using this online tool
-- [Robtex DNS Lookup](https://www.robtex.com/dns-lookup/) - Get detailed information on the nameservers associated with a domain name
-- [DNSMap](https://dnsmap.io/) - Worldwide DNS Propagation Checker
-- [Validin](https://app.validin.com/) - Massive collection of DNS records with free DNS history search
-- [dnslookup.pro](https://dnslookup.pro/) - Advanced DNS Record Analysis & Troubleshooting
-
-### Certificates
-
-- [Crt.sh](https://crt.sh/) - Certificate Search
-- [CTSearch](https://ui.ctsearch.entrust.com/ui/ctsearchui) - Certificate Transparency Search Tool
-- [tls.bufferover.run](https://tls.bufferover.run/) - Quickly find certificates in IPv4 space
-- [CertSpotter](https://sslmate.com/certspotter/) - Monitors your domains for expiring, unauthorized, and invalid SSL certificates
-- [SynapsInt](https://synapsint.com/) - The unified OSINT research tool
-- [Censys Search - Certificates](https://search.censys.io/#) - Certificates Search
-- [ciphersuite.info](https://ciphersuite.info/) - TLS Ciphersuite Search. Search for a particular cipher suite by using IANA, OpenSSL or GnuTLS name format
-- [certificatedetails](https://certificatedetails.com/) - Online certificate viewer. Inspect and download certificates from your browser
-- [FacebookCT](https://developers.facebook.com/tools/ct/search/) - Search for certificates issued for a given domain and subscribe to notifications from Facebook regarding new certificates
-- [certs.io](https://certs.io/) - Search TLS certificates across the internet.
-- [ODIN Certificates Search](https://getodin.com/search/certificates) - ODIN Certificates Search
-
-### WiFi Networks
-
-- [Wigle.net](https://wigle.net/) - Maps and database of 802.11 wireless networks with statistics
-- [wifimap.io](https://www.wifimap.io/) - Connect to all Free WiFi Hotspots using WiFi Map App all over the World!
-- [wificafespots.com](http://www.wificafespots.com/) - Free WiFi Cafe Spots
-- [wifispc.com](https://wifispc.com/) - Free map of Wi-Fi passwords anywhere you go!
-- [openwifimap.net](https://openwifimap.net/) - HTML5 map with OpenWiFiMap data
-- [mylnikov.org](https://www.mylnikov.org/) - Public API implementation of Wi-Fi Geo-Location database
-
-### Device Information
-
-- [MACVendorLookup.com](https://www.macvendorlookup.com/) - Look up the vendor for a specific MAC Address
-- [macvendors.com](https://macvendors.com/) - Find MAC Address Vendors. Now
-- [macaddress.io](https://macaddress.io/) - MAC address vendor lookup
-- [maclookup.app](https://maclookup.app/) - Find the vendor name of a device by entering an OUI or a MAC address
-- [macvendors.co](https://macvendors.co/) - Get vendor name of your network device using its mac address
-
 ### Credentials
 
 - [Have I Been Pwned](https://haveibeenpwned.com/) - Check if your email or phone is in a data breach
@@ -362,15 +254,6 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [BreachCheck.io](https://breachcheck.io/) - Free service for consumers that allows you to check and download a list of your personal data exposed in various databreaches
 - [OCCRP Aleph](https://data.occrp.org/) - The global archive of research material for investigative reporting
 
-### Hidden Services
-
-- [AHMIA](https://ahmia.fi/) - Search hidden services on the Tor network
-- [thehiddenwiki.org](https://thehiddenwiki.org/) - The darknet guide
-- [tor.link](https://tor.link/) - Free anonymous deepweb / Darknet search engine
-- [deepweblinks.net](https://deepweblinks.net/) - Onion Links
-- [onionengine.com](https://onionengine.com/) - A search engine for services accessible on the Tor network
-- [OnionLand](https://onionlandsearchengine.net/) - Discover Hidden Services and access to Tor's onion sites
-
 ### Social Networks
 
 These can be useful for osint and social engineering.
@@ -395,35 +278,6 @@ These can be useful for osint and social engineering.
 - [Weibo](https://weibo.com/)
 - [Tinder](https://tinder.com/)
 - [Threads](https://www.threads.net/)
-
-### Phone Numbers
-
-- [NumLookup](https://www.numlookup.com/) - Free reverse phone lookup
-- [SpyDialer](https://spydialer.com/) - Free Reverse Lookup Search
-- [WhitePages](https://www.whitepages.com/) - Find people, contact info & background checks
-- [National Cellular Directory](https://www.nationalcellulardirectory.com/) - Begin your comprehensive people search now
-- [Phone Validator](https://www.phonevalidator.com/) - Is it a cell phone or is it a landline or is it a fake?
-- [Free Carrier Lookup](https://freecarrierlookup.com/) - Enter a phone number and we'll return the carrier name
-- [RocketReach](https://rocketreach.co/) - Your first-degree connection to any professional
-- [sync.me](https://sync.me/) - Find out who called
-- [EmobileTracker](https://www.emobiletracker.com/) - Track Mobile Owner Name, Location and Mobile Service Provider
-- [Reverse Phone Lookup](https://www.reversephonelookup.com/) - Find Out The Owner Of A Phone Number
-- [ThatsThem](https://thatsthem.com/reverse-phone-lookup) - Reverse phone lookup
-- [thisnumber.com](https://www.thisnumber.com/) - International Phone Directories
-- [usphonebook.com](https://www.usphonebook.com/) - Free Reverse Phone Number Lookup
-- [truepeoplesearch.com](https://www.truepeoplesearch.com/#) - Get current address, cell phone number, email address, relatives, friends and a lot more
-- [Tellows](https://www.tellows.com/) - Who is calling? The phone number reverse search
-- [SynapsInt](https://synapsint.com/) - The unified OSINT research tool
-- [C99.nl](https://api.c99.nl/) - Over 57 quality API's and growing
-- [ValidNumber.com](https://validnumber.com/) - Free reverse phone lookup service to let you identify a caller associated with any 10-digit phone number from the US and Canada
-- [CellIdFinder](https://cellidfinder.com/) - Nonprofit project which helps you to find GSM BTS by MCC, MNC, LAC and CellID
-- [OldPhoneBook](http://www.oldphonebook.com/) - Instantly search a large selection from the past 20 years of USA phone listings
-- [Spokeo](https://www.spokeo.com/) - Search by name, phone, address, or email to confidentially lookup information about people you know
-- [Intelius Phone Lookup](https://www.intelius.com/reverse-phone-lookup/) - Look up a phone number to find owner information, carrier details, and more
-- [ZabaSearch Phone Lookup](https://www.zabasearch.com/reverse-phone-lookup/) - Reverse Phone Lookup Tool Can Uncover Personal Information, Social Media Data, Online Activity, Photos, and More
-- [AnyWho Phone Lookup](https://www.anywho.com/reverse-phone-lookup/) - Find out information associated with a phone number
-- [Radaris Phone Lookup](https://radaris.com/#findPhoneH) - Look up any phone number to see its owner and identify who's calling or texting you
-- [Reverse Phone Lookup](https://www.reversephonecheck.com/) - Reverse phone number lookup with millions of listings including name or address
 
 ### Images
 
@@ -451,74 +305,6 @@ These can be useful for osint and social engineering.
 - [Image Identify](https://www.imageidentify.com/) - Image recognition site, just drag your image & identify
 - [ScamDigger](https://www.scamdigger.com/picsearch.php) - You will see if that picture belongs to somebody else, was used by somebody else, already scamlisted, etc
 
-### Threat Intelligence
-
-- [MITRE ATT&CK](https://attack.mitre.org/) - Globally-accessible knowledge base of adversary tactics and techniques
-- [PulseDive](https://pulsedive.com/) - Threat intelligence made easy
-- [ThreatCrowd](https://threatcrowd.org/) - A Search Engine for Threats
-- [ThreatMiner](https://www.threatminer.org/) - Data Mining for Threat Intelligence
-- [VirusTotal](https://www.virustotal.com/) - Analyze suspicious files, domains, IPs and URLs to detect malware and other breaches
-- [vx-underground.org](https://vx-underground.org/) - The largest collection of malware source code, samples, and papers on the internet
-- [bazaar.abuse.ch](https://bazaar.abuse.ch/browse/) - Malware sample database
-- [feodotracker.abuse.ch](https://feodotracker.abuse.ch/browse/) - List of botnet Command&Control servers
-- [sslbl.abuse.ch](https://sslbl.abuse.ch/ssl-certificates/) - All malicious SSL certificates
-- [urlhaus.abuse.ch](https://urlhaus.abuse.ch/browse/) - Propose new malware urls
-- [threatfox.abuse.ch](https://threatfox.abuse.ch/browse/) - Indicator Of Compromise (IOC) database
-- [yaraify.abuse.ch](https://yaraify.abuse.ch/) - Scan suspicious files such as malware samples or process dumps against a large repository of YARA rules
-- [Rescure](https://rescure.me/) - Curated cyber threat intelligence for everyone
-- [otx.alienvault](https://otx.alienvault.com/) - The World's First Truly Open Threat Intelligence Community
-- [urlquery.net](https://urlquery.net/) - Service for detecting and analyzing web-based malware
-- [socradar.io](https://socradar.io/) - Extension to your SOC team
-- [VirusShare](https://virusshare.com/) - System currently contains 48 million malware samples
-- [PassiveTotal](https://www.riskiq.com/products/passivetotal/) - Security intelligence that scales security operations and response
-- [malapi.io](https://malapi.io/) - Windows APIs used for malicious purposes
-- [filesec.io](https://filesec.io/) - Latest file extensions being used by attackers
-- [leakix.net](https://leakix.net/) - Search engine indexing public information and an open reporting platform linked to the results
-- [tria.ge](https://tria.ge/s) - Fully automated solution for high-volume malware analysis using advanced sandboxing technology
-- [Polyswarm](https://polyswarm.network/) - Launchpad for new technologies and innovative threat detection methods
-- [Cisco Talos](https://talosintelligence.com/) - The threat intelligence organization at the center of the Cisco Security portfolio
-- [scamsearch.io](https://scamsearch.io/#anchorCeckNow) - Find your scammer online & report them
-- [CyberCampaigns](http://www.cybercampaigns.net/) - Threat Actor information and Write-Ups
-- [ORKL](https://orkl.eu/) - The Community Driven Cyber Threat Intelligence Library
-- [Maltiverse](https://maltiverse.com/search) - Data from more than 100 different Threat Intelligence sources
-- [Inquest Labs](https://labs.inquest.net/) - Threat intelligence from hundreds of public, private, and internal sources to develop new FDR signatures and rules
-- [PhishTank](https://phishtank.org/) - Collaborative clearing house for data and information about phishing on the Internet
-- [IntelOwl](https://github.com/intelowlproject/IntelOwl) - Open Source Intelligence, or OSINT solution to get threat intelligence data about a specific file, an IP or a domain from a single API at scale
-- [Lupovis](https://prowl.lupovis.io/) - Analyze and collect data on Internet-wide scans and attacks in real-time. We use this data to identify and classify malicious actors
-- [AbuseIPDB](https://www.abuseipdb.com/) - Check the report history of any IP address to see if anyone else has reported malicious activities
-- [Sucuri SiteCheck](https://sitecheck.sucuri.net/) - Check websites for known malware, viruses, blacklisting status, website errors, out-of-date software, and malicious code
-- [Spamhaus](https://spamhaus.com) - Protect and investigate using IP and domain reputation data
-- [ThreatBook](https://threatbook.io/) - One step ahead of your adversary with high-fidelity, efficient and actionable cyber threat intelligence
-- [ShadowServer](https://www.shadowserver.org/) - Nonprofit security organization working altruistically behind the scenes to make the Internet more secure for everyone
-- [Team Cymru](https://www.team-cymru.com/) - Global leader in cyber threat intelligence and attack surface management
-- [BeVigil](https://bevigil.com/) - Search engine for mobile application security testing
-- [CIRCL](https://www.circl.lu/) - The Computer Incident Response Center Luxembourg is a government-driven initiative designed to gather, review, report and respond to computer security threats and incidents
-- [MetaDefender Cloud](https://metadefender.opswat.com/) - Advanced threat detection and prevention platform
-- [Cybersixgill](https://cybersixgill.com/) - Threat intelligence platform that provides access to a wide range of cybersecurity information, including dark web monitoring and threat actor analysis
-- [Hybrid Analysis](https://www.hybrid-analysis.com/) - Free malware analysis service for the community that detects and analyzes unknown threats using a unique Hybrid Analysis technology
-- [IBM X-Force Exchange](https://exchange.xforce.ibmcloud.com/) - Threat intelligence sharing platform enabling research on security threats, aggregation of intelligence, and collaboration with peers
-- [The DFIR Report](https://thedfirreport.com/) - Real Intrusions by Real Attackers, The Truth Behind the Intrusion
-- [Detection.FYI](https://detection.fyi/) - Search Sigma rules
-- [WhoisXMLAPI](https://www.whoisxmlapi.com/) - Domain & IP Data Intelligence for Greater Enterprise Security
-- [APIVoid](https://www.apivoid.com/) - Threat analysis centered on IP and Domain reputation, along with additional services
-- [AnyRun](https://app.any.run/submissions) - Browse thousands of malware samples in our database
-- [Filescan.io](https://www.filescan.io/reports) - Search reports for file name, URL, IP, Domain or Hash
-- [MalShare](https://malshare.com/) - Community driven public malware repository that works to provide free access to malware samples
-- [Kaspersky TIP](https://opentip.kaspersky.com/requests) - Scan files, domains, IP addresses, and URLs for threats, malware, viruses
-- [Malwares.com](https://malwares.com/) - Search malwares online
-- [ApkLab](https://www.apklab.io/) - Mobile threat intelligence platform designed to provide the most relevant information for Android security researchers
-- [Scumware](https://www.scumware.org/search.php) - Find latest reports about malware and other threats
-- [Living off the False Positive](https://br0k3nlab.com/LoFP/) - Autogenerated collection of false positives sourced from some of the most popular rule sets
-- [HijackLibs](https://hijacklibs.net/) - Project for tracking publicly disclosed DLL Hijacking opportunities
-- [bootloaders.io](https://www.bootloaders.io/) - Curated list of known malicious bootloaders for various operating systems
-- [WTFBins](https://wtfbins.wtf/) - Catalogue benign applications that exhibit suspicious behavior. These binaries can emit noise and false positives in threat hunting and automated detections
-- [LOFLCAB](https://lofl-project.github.io/) - Document every cmdlet, binary, script, and WMI class that can be used for Living Off the Foreign Land techniques
-- [OpSecFailure](https://opsecfail.github.io/) - Site that lists how individuals messed up their opsec, no personal info is shared on this site
-- [TrailDiscover](https://traildiscover.cloud/) - An evolving repository of CloudTrail events with detailed descriptions, MITRE ATT&CK insights, real-world incidents, references and security implications
-- [scamdb.net](https://www.scamdb.net/) - Report and Search Online Scams
-- [OpenPhish](https://openphish.com/) - Actionable intelligence data on active phishing threats
-- [ThreatIntelligencePlatform.com](https://threatintelligenceplatform.com/) - Data, tool, and API provider that specializes in automated threat detection, security analysis and threat intelligence solutions
-
 ### Web History
 
 - [Web Archive](https://web.archive.org/) - Explore more than 702 billion web pages saved over time
@@ -531,58 +317,6 @@ These can be useful for osint and social engineering.
 - [Archive-It](https://archive-it.org/) - An archive of digital government and non-government organization (NGO) documents and reports
 - [HAW](https://haw.nsk.hr/en/) - Croatian Web Archive
 
-### Surveillance cameras
-
-- [Insecam.org](http://www.insecam.org/en/) - The world biggest directory of online surveillance security cameras
-- [Surveillance under Surveillance](https://sunders.uber.space/) - Cameras and guards watching you almost everywhere
-- [World Cams](https://worldcams.tv/) - Live Streaming Webcams Like Never Seen Before
-- [Skylinewebcams](https://www.skylinewebcams.com/) - Live HD webcams broadcasting from the world's best attractions and destinations
-- [WebKams](https://www.webkams.com/) - Live Web Cameras Everywhere
-- [WorldCam](https://worldcam.eu/) - Webcams from around the world
-- [Webcam Hopper](https://www.webcamhopper.com/) - Live Webcams from around the world
-- [Live Traffic](https://livetraffic.eu/) - Real-time monitoring of Europe’s live traffic cameras
-- [Geocam.ru](https://www.geocam.ru/en/) - Webcams of the world
-- [Moldova's borders webcams](https://www.border.gov.md/camere-web) - Official list of webcams at various border crossings around Moldova
-- [Earth Cam](https://www.earthcam.com/) - Leading network of live streaming webcams for tourism and entertainment
-- [Webcam Taxi](https://www.webcamtaxi.com/en/) - Live Virtual Travel
-- [LiveWorldWebcams](https://liveworldwebcams.com/) - Live streaming webcams from around the world
-- [AlleCam](https://www.allecam.com/) - Webcam live from Europe and the whole world
-- [WXYZ Webcams](https://wxyzwebcams.com/) - Real-time webcams
-
-### Crypto
-
-- [ChainAbuse](https://www.chainabuse.com/) - Report malicious crypto activity
-- [BlockChair](https://blockchair.com/) - Blockchain explorer, analytics and web services
-- [BlockCypher](https://live.blockcypher.com/) - Search the block chain
-
-### People
-
-- [TruePeopleSearch](https://www.truepeoplesearch.com/) - Free people search tool. Search billions of public records
-- [TruthFinder](https://www.truthfinder.com/people-search/) - A people search is a quick and simple way to find information on someone by name
-- [BeenVerified](https://www.beenverified.com/) - BeenVerified's mission is to give people easy and affordable access to public record information
-- [ZabaSearch](https://www.zabasearch.com/) - Free* People Search and Public Information Search Engine
-- [PeekYou](https://www.peekyou.com/) - Fast People Search Made Easy
-- [PeopleFinders](https://www.peoplefinders.com/people-search) - People Search
-- [Pipl](https://pipl.com/) - The #1 source for identity & trust
-- [That's Them](https://thatsthem.com/people-search) - Find Someone's Contact Details By Name
-- [snitch.name](http://snitch.name/) - Social White Pages application with helps you Search for People's Profiles on Social Sites
-- [Webmii](https://webmii.com/) - People search engine
-- [FastPeopleSearch](https://www.fastpeoplesearch.com/) - Find a person by name, phone number, or street address
-- [Sorted By Name](https://sortedbyname.com/) - A curated collection of links to genealogy details mentioned on other websites, or acquired by the webmaster
-- [Radaris](https://radaris.com/) - Find People Fast and Free
-- [Addresses.com](https://www.addresses.com/) - Free People Search and Public Information Search Engine
-- [Advanced Background Checks](https://www.advancedbackgroundchecks.com/) - Free People Search
-- [Yasni](http://www.yasni.com/) - Search phone, email, address for any name. News, pictures & links for any person. Find anyone on the internet with the world's largest free people search
-- [USA Data Search](https://usa-official.com/) - The USA official website provides access to public data that can be searched and viewed by anyone
-- [AnyWho](https://www.anywho.com/) - Finding People, Places, and Businesses
-- [Lullar](https://com.lullar.com/) - Profile Search by Email, First Last Name or Username
-- [Ancestry](https://www.ancestry.com/search/) - The largest for-profit genealogy company in the world, it operates a network of genealogical, historical records, and related genetic genealogy websites
-- [genealogy.com](https://www.genealogy.com/) - Source for family history buffs to find genealogical research originally posted in GenForum and our most popular genealogy articles
-- [US Search](https://www.ussearch.com/) - Access to details about the people in your life. Access public records, contact information, background checks & more
-- [Find My Past](https://search.findmypast.com/search-world-records) - Discover your global ancestors by searching millions of records across the world
-- [FamilySearch](https://www.familysearch.org/search/) - Search for your ancestors in birth certificates, marriage registrations, census records, and other documents
-- [iTools - Wink People Search](http://itools.com/tool/wink-people-search) - Free people search. Find people on social networks and across the Web
-- [Intelius](https://www.intelius.com/) - Leading provider of public data about people and their connections to others
 
 ### Unclassified
 
@@ -595,18 +329,3 @@ These can be useful for osint and social engineering.
 - [CanIUse.com](https://caniuse.com/) - Browser support tables for modern web technologies
 - [Dark Visitors](https://darkvisitors.com/) - Track and Control Artificial Agents Crawling Your Website
 
-### Not working / Paused
-
-<!-- markdown-link-check-disable -->
-
-- [DNS.BufferOver.run](https://dns.bufferover.run/)
-- [NetoGraph](https://netograph.io/) - Captures and indexes detailed, low-level snapshots of website behaviour
-- [Hashdd](https://hashdd.com/) - Known Good Cryptographic Hashes
-
-<!-- markdown-link-check-enable -->
-
----
-
-If you want to propose changes, just open an [issue](https://github.com/edoardottt/awesome-hacker-search-engines/issues) or a [pull request](https://github.com/edoardottt/awesome-hacker-search-engines/pulls).
-
-[edoardottt.com](https://edoardottt.com/) to contact me.
