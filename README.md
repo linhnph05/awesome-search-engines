@@ -50,17 +50,14 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [Vulners.com](https://vulners.com/) - Your Search Engine for Security Intelligence
 - [opencve.io](https://www.opencve.io/cve) - Easiest way to track CVE updates and be alerted about new vulnerabilities
 - [security.snyk.io](https://security.snyk.io/) - Open Source Vulnerability Database
-- [Mend Vulnerability Database](https://www.mend.io/vulnerability-database/) - The largest open source vulnerability DB
+- [Mend Vulnerability Database](https://mend.io/vulnerability-database/) - The largest open source vulnerability DB
 - [Rapid7 - DB](https://www.rapid7.com/db/) - Vulnerability & Exploit Database
 - [CVEDetails](https://www.cvedetails.com/) - The ultimate security vulnerability datasource
-- [VulnIQ](https://vulniq.com/) - Vulnerability intelligence and management solution
 - [SynapsInt](https://synapsint.com/) - The unified OSINT research tool
 - [Aqua Vulnerability Database](https://avd.aquasec.com/) - Vulnerabilities and weaknesses in open source applications and cloud native infrastructure
 - [Vulmon](https://vulmon.com/) - Vulnerability and exploit search engine
 - [VulDB](https://vuldb.com/) - Number one vulnerability database
-- [ScanFactory](https://in.scanfactory.io/cvemon.html) - Realtime Security Monitoring
 - [Trend Micro Zero Day Initiative](https://www.zerodayinitiative.com/advisories/published/) - Publicly disclosed vulnerabilities discovered by Zero Day Initiative researchers
-- [Google Project Zero](https://bugs.chromium.org/p/project-zero/issues/list?can=1&q=&sort=-id&colspec=ID%20Type%20Status%20Priority%20Milestone%20Owner%20Summary) - Vulnerabilities including Zero Days
 - [Trickest CVE Repository](https://github.com/trickest/cve) - Gather and update all available and newest CVEs with their PoC
 - [cnvd.org.cn](https://www.cnvd.org.cn/) - Chinese National Vulnerability Database
 - [InTheWild.io](https://inthewild.io/feed) - Check CVEs in our free, open source feed of exploited vulnerabilities
@@ -68,7 +65,6 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [Red Hat Security Advisories](https://access.redhat.com/security/security-updates/) - Information about security flaws that affect Red Hat products and services in the form of security advisories
 - [Cisco Security Advisories](https://sec.cloudapps.cisco.com/security/center/publicationListing.x) - Security advisories and vulnerability information for Cisco products, including network equipment and software
 - [Microsoft Security Response Center](https://msrc.microsoft.com/update-guide/en-us) - Reports of security vulnerabilities affecting Microsoft products and services
-- [VARIoT](https://www.variotdbs.pl/vulns/) - VARIoT IoT Vulnerabilities Database
 - [Lambda Watchdog](https://lambdawatchdog.com/) - Your CVE dashboard for AWS Lambda
 
 ### Exploits
@@ -78,40 +74,24 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [Rapid7 - DB](https://www.rapid7.com/db/) - Vulnerability & Exploit Database
 - [Vulmon](https://vulmon.com/) - Vulnerability and exploit search engine
 - [packetstormsecurity.com](https://packetstormsecurity.com/) - Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers
-- [0day.today](https://0day.today/) - Ultimate database of exploits and vulnerabilities
 - [LOLBAS](https://lolbas-project.github.io/) - Living Off The Land Binaries, Scripts and Libraries
 - [GTFOBins](https://gtfobins.github.io/) - Curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems
 - [Payloads All The Things](https://swisskyrepo.github.io/PayloadsAllTheThings/) - A list of useful payloads and bypasses for Web Application Security
-- [XSS Payloads](http://www.xss-payloads.com/) - The wonderland of JavaScript unexpected usages, and more
-- [exploitalert.com](https://www.exploitalert.com/search-results.html) - Database of Exploits
+- [XSS Payloads](https://xss-payloads.paracyberbellum.io/) - The wonderland of JavaScript unexpected usages, and more
 - [Reverse Shell generator](https://www.revshells.com/) - Online Reverse Shell generator with Local Storage functionality, URI & Base64 Encoding, MSFVenom Generator, and Raw Mode
-- [HackerOne hacktivity](https://hackerone.com/hacktivity) - See the latest hacker activity on HackerOne
-- [Bugcrowd Crowdstream](https://bugcrowd.com/crowdstream) - Showcase of accepted and disclosed submissions on Bugcrowd programs
 - [GTFOArgs](https://gtfoargs.github.io/) - Curated list of Unix binaries that can be manipulated for argument injection
-- [shell-storm.org/shellcode](https://shell-storm.org/shellcode/index.html) - Shellcodes database for study cases
 - [Hacking the Cloud](https://hackingthe.cloud/) - Encyclopedia of the attacks/tactics/techniques that offensive security professionals can use on their next cloud exploitation adventure
-- [LOLDrivers](https://www.loldrivers.io/) - Open-source project that brings together vulnerable, malicious, and known malicious Windows drivers
-- [PwnWiki](http://pwnwiki.io/) - Collection of TTPs (tools, tactics, and procedures) for what to do after access has been gained
 - [CVExploits Search](https://cvexploits.io/) - Your comprehensive database for CVE exploits from across the internet
-- [VARIoT](https://www.variotdbs.pl/exploits/) - VARIoT IoT exploits database
-- [LOOBins](https://www.loobins.io/) - Detailed information on various built-in macOS binaries and how they can be used by threat actors for malicious purposes
-- [Coalition Exploit Scoring System](https://ess.coalitioninc.com/) - Model that dynamically scores new and existing vulnerabilities to reflect their exploit likelihood
-- [WADComs](https://wadcoms.github.io/) - Interactive cheat sheet containing a curated list of offensive security tools and their respective commands to be used against Windows/AD environments
 - [LOLAPPS](https://lolapps-project.github.io/) - Compendium of applications that can be used to carry out day-to-day exploitation
-- [Living off the Hardware](https://lothardware.com.tr/) - Resource collection that provides guidance on identifying and utilizing malicious hardware and malicious devices
 - [Living Off the Pipeline](https://boostsecurityio.github.io/lotp/) - How development tools commonly used in CI/CD pipelines can be used to achieve arbitrary code execution
 - [hackyx.io](https://hackyx.io/) - The aim of this project is to easily find any resource related to IT security like CTF writeups, articles or Bug Bounty reports
-- [exploit.observer](https://www.exploit.observer/) - The World's Largest Exploit & Vulnerability Intelligence Database and is freely accessible to all
-- [VulnCheck XDB](https://vulncheck.com/xdb/) - An index of exploit proof-of-concept code in Git repositories
+- [VulnCheck XDB](https://vulncheck.com/xdb) - An index of exploit proof-of-concept code in Git repositories
 - [Sploitify](https://sploitify.haxx.it/) - Interactive cheat sheet, containing a curated list of public server-side exploits (mostly)
-- [LOLESXi](https://lolesxi-project.github.io/LOLESXi/) - Comprehensive list of binaries/scripts natively available in VMware ESXi that adversaries have utilised in their operations
-- [LOLAD](https://lolad-project.github.io/) - Comprehensive collection of Active Directory techniques, commands, and functions that can be used natively to support offensive security operations and Red Team exercises
 
 ### Code
 
 - [GitHub Code Search](https://github.com/search?type=code) - Search globally across all of GitHub, or scope your search to a particular repository or organization
 - [GitLab Code Search](https://gitlab.com/) - Advanced search for faster, more efficient search across the entire GitLab instance
-- [Sourceforge](https://sourceforge.net/) - Complete Open-Source and Business Software Platform
 - [grep.app](https://grep.app/) - Search across a half million git repos
 - [publicwww.com](https://publicwww.com/) - Find any alphanumeric snippet, signature or keyword in the web pages HTML, JS and CSS code
 - [SearchCode](https://searchcode.com/) - Search 75 billion lines of code from 40 million projects
@@ -120,23 +100,14 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [SourceGraph](https://about.sourcegraph.com/) - Understand and search across your entire codebase
 - [HotExamples](https://hotexamples.com/) - Search code examples from over 1 million projects
 - [WP Directory](https://wpdirectory.net/) - Lightning fast regex searching of code in the WordPress Plugin and Theme Directories
-- [GitHub Gists](https://gist.github.com/discover) - Instantly share code, notes, and snippets
 - [CodeBerg](https://codeberg.org/explore/repos) - Collaboration platform and Git hosting for free and open source software, content and projects
-- [Fedora Pagure](https://pagure.io/browse/projects/) - Open Source software code hosting system
-- [LaunchPad](https://launchpad.net/) - Software collaboration platform that provides: Bug tracking, Code hosting, Code reviews, Ubuntu package building and hosting, Translations...
 - [repo.or.cz](https://repo.or.cz/?a=project_list) - Public Git hosting site
-- [gitorious.org](https://gitorious.org/) - Read-only mirror of the former gitorious.org code hosting website
 - [Sourcehut](https://sr.ht/projects) - Collection of tools useful for software development
 - [android.googlesource.com](https://android.googlesource.com/) - Git repositories on android
 - [deps.dev](https://deps.dev/) - Service developed and hosted by Google to help developers better understand the structure, construction, and security of open source software packages
 - [WebFinery](https://webfinery.com/search) - Search the source code of the web
-- [Google Code Archive](https://code.google.com/archive/) - Data found on the Google Code Project Hosting Service, which was turned down in early 2016
-- [Snipplr](https://snipplr.com/all) - Code snippet search engine that allows users to search and share code snippets across various programming languages and frameworks
 - [Postman Public Collections](https://www.postman.com/explore/collections) - Explore the best APIs, collections, workspaces in the world on the Postman Public API Network
-- [ScriptMafia](https://scriptmafia.org) - Download full nulled scripts
-- [SearchFTPs](https://www.searchftps.net/) - The most advanced FTP Search Engine service maintained by members
 - [Ecosyste.ms](https://ecosyste.ms/) - An open API service providing package, version and dependency metadata of many open source software ecosystems and registries
-- [SwaggerHub](https://app.swaggerhub.com/search) - Search public APIs and Domains in SwaggerHub
 
 ### Mail Addresses
 
@@ -322,10 +293,7 @@ These can be useful for osint and social engineering.
 
 - [DorkSearch](https://dorksearch.com/) - Speed up your Dorking
 - [usersearch.org](https://usersearch.org/) - Find someone by username or email on Social Networks, Dating Sites, Forums, Crypto Forums, Chat Sites and Blogs
-- [Pastebin](https://pastebin.com/) - Website where you can store text online for a set period of time
-- [Wappalyzer](https://www.wappalyzer.com/) - Instant access to website technology stacks, company and contact details, social media profiles, email verification and more
 - [Awakari](https://awakari.com) - Real-Time Search from unlimited sources like RSS, Fediverse, Telegram, etc. Filter events by keywords, numeric conditions, condition groups
 - [cspbypass.com](https://cspbypass.com/) - Search for CSP Bypasses
-- [CanIUse.com](https://caniuse.com/) - Browser support tables for modern web technologies
 - [Dark Visitors](https://darkvisitors.com/) - Track and Control Artificial Agents Crawling Your Website
 
